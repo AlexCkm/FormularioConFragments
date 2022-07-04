@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationLogin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Formulario">Formulario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Correo">Correo</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Pantalla">Pantalla</string>
+    <string name="Volver">Volver</string>
+</resources>
